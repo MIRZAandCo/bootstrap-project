@@ -1,0 +1,17 @@
+.jumbotron {
+    background-color: blueviolet;
+}
+
+.footer{
+    background-color: lavender;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.row-header{
+    margin: auto;
+    margin: auto;
+    padding: auto;
+}
+.navbar-dark{
+    background-color:  #512DA8;
+}
